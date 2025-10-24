@@ -11,7 +11,7 @@ A beautiful, interactive recipe generator that creates personalized recipes base
 - Beautiful UI with animations
 
 ## Live Demo
-Visit: https://yourusername.github.io/ai-chef-website
+Visit: [https://yourusername.github.io/ai-chef-website](https://claude.ai/public/artifacts/ba04fcdc-6102-4cf8-8b3e-295569481b1c)
 
 ## Local Development
 1. Clone the repository
